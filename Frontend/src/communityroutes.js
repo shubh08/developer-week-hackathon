@@ -30,29 +30,29 @@ const dashboardRoutes = [
     name: "Dashboard",
     icon: "pe-7s-graph",
     component: Dashboard,
-    layout: "/admin"
+    layout: "/community"
   },
   {
     path: "/user",
     name: "User Profile",
     icon: "pe-7s-user",
     component: UserProfile,
-    layout: "/admin"
+    layout: "/community"
   },
   {
     path: "/table",
     name: "Table List",
     icon: "pe-7s-note2",
     component: TableList,
-    layout: "/admin"
-  },
-  {
-    path: "/typography",
-    name: "Typography",
-    icon: "pe-7s-news-paper",
-    component: Typography,
-    layout: "/admin"
+    layout: "/community"
   }
+  // {
+  //   path: "/typography",
+  //   name: "Typography",
+  //   icon: "pe-7s-news-paper",
+  //   component: Typography,
+  //   layout: "/community"
+  // }
 //   {
 //     path: "/icons",
 //     name: "Icons",
