@@ -6,7 +6,7 @@
     "@tomtom-international/web-sdk-maps": "^5.45.0",
     "@tomtom-international/web-sdk-services": "^5.45.0",
     "@trendmicro/react-sidenav": "^0.4.5",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "google-maps-react": "^2.0.2",
